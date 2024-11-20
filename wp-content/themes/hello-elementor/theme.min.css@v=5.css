@@ -193,8 +193,8 @@ body{
     box-shadow: none!important;
     border-radius: 20px;
     border: 3px solid #313aff!important;
-    background: url(dogebg4.png);
-    background-size: contain;
+    background: url(/bg.png);
+    background-size: cover;
     box-shadow: 0 5px #313aff!important;
 
 
